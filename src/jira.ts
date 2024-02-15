@@ -128,9 +128,10 @@ If this is your first time contributing, refer to <a href="https://github.com/ms
 
 Valid sample branch names:
 
-- \`feature/shiny-new-feature--mojo-10\`
-- \`chore/changelogUpdate_mojo-123\`
-- \`bugfix/fix-some-strange-bug_GAL-2345\``;
+- \`feature/ADP-0000/sam`
+- \`bug/ADP-0000/ben`
+- \`task/ADP-0000/adam`
+- \`team/mike/ADP-0000``;
   };
 
   /** Check if jira issue status validation is enabled then compare the issue status will the allowed statuses. */
